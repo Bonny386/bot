@@ -1,0 +1,2 @@
+# bot
+deriv speed bot
